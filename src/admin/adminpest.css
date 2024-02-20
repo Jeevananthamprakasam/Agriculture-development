@@ -1,0 +1,21 @@
+.pestimg{
+    height:30vh;
+    width: 30vh;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+  }
+  .heading{
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .pest{
+    background-color: rgb(238, 255, 255);
+  }
+  .borders{
+    border: 1px solid rgb(255, 255, 255);
+    padding :30px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    background-color: rgb(204, 217, 221);
+  }

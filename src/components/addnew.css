@@ -1,0 +1,33 @@
+.button{
+    margin: 20px 170px;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 2px;
+}
+.form{
+    height: 89vh;
+    background: url("p1.jpg")no-repeat center fixed;
+    background-size: cover;
+}
+.adding{
+    width: 450px;
+    margin: 0px 560px;
+   
+}
+.container{
+    padding: 30px;
+    border-radius: 10px;
+    background-color: none;
+    
+}
+.addnew{
+    background: url("p1.jpg")no-repeat center fixed;
+    background-size: cover;
+    height: 100vh;
+}
+h2{
+    color: aliceblue;
+   
+    margin: 0px 50px;
+    margin-top: -24px;
+}
